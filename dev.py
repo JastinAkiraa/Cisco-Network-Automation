@@ -35,6 +35,4 @@ try:
 except FileNotFoundError:
     print("File ip list.txt tidak ditemukan!")
 
-# Memanggil Fungsi 
-#GiU_-kwD57Xr4U
 
